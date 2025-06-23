@@ -1,4 +1,4 @@
-````markdown
+
 # Yapily Open Banking Demo
 
 This is a Spring Boot application to demonstrate an end-to-end Open Banking integration using Yapily’s sandbox APIs. It covers the complete consent flow, account retrieval, and transaction listing, all with built-in error handling and health checks.
@@ -153,5 +153,3 @@ curl http://localhost:8080/actuator/health
 ## Further Documentation
 
 For more detailed information—including request/response models, authentication flows, and additional endpoints—see the official **[Yapily API documentation](https://docs.yapily.com/)**.
-
-```
