@@ -22,8 +22,8 @@ server:
 
 yapily:
   base-url: https://api.yapily.com
-  app-id: 60adff42-a0af-4654-aeaa-fa1fdc055ee7
-  secret: shl1Ul7jegu4J5mBpdOhy4bixJ8mj0wO
+  app-id: ${YAPILY_APP_ID}
+  secret: ${YAPILY_SECRET}
 
 management:
   endpoints:
